@@ -1,0 +1,44 @@
+Eu aprendi algumas funcionalidades do github, e como funciona a estrutura de arquivos em um projeto.
+Um exemplo é utilizar o github para subir projetos feitos no visual code, e como esses projetos podem serem usados, e não alterar o arquivo inicial.
+Utiliza-se a estrutura de "branches" para adicionar ramificações de um arquivo inicial,  que é o "main", onde outros arquivos são feitos em cima, sem alterar o arquivo inicial.
+Isso é muito importante em um projeto com varias pessoas, pois cada equipe ou pessoa pode trabalhar em uma aplicação, sem interferir no projeto como um todo.  
+
+Comandos no git:
+O que faz git log:
+Mostra o histórico de commits do repositório.
+
+Pra que serve:
+Ver quem fez alterações, quando, e o que foi mudado.
+
+O que faz git status:
+Mostra o estado atual do repositório.
+
+Pra que serve:
+Ver quais arquivos foram modificados, adicionados ou estão prontos para commit.
+
+O que faz git diff:
+Compara diferenças entre arquivos.
+
+Pra que serve:
+Ver o que foi alterado antes de fazer o commit.
+
+O que faz git restore:
+Desfaz mudanças em arquivos no diretório de trabalho.
+
+Pra que serve:
+Voltar a um estado anterior, ignorando alterações locais.
+
+O que faz git checkout:
+Muda de branch ou restaura arquivos para o estado de um commit.
+
+Pra que serve:
+Navegar entre versões ou branches diferentes.
+
+O que faz git reset:
+Remove commits ou desfaz mudanças do staging.
+
+Pra que serve:
+Voltar no histórico ou tirar arquivos da "lista de commit".
+
+O que faz git revert:
+Cria um novo commit que desfaz as alterações de um commit anterior sem apagar o histórico.
